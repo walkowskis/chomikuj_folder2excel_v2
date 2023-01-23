@@ -1,0 +1,5 @@
+login = ''
+pwd = ''
+folder_owner_pwd = ''
+website_url = ''
+webdriver_path = ''
