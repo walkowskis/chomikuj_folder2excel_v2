@@ -7,7 +7,7 @@ import time
 import openpyxl
 import logging
 import datetime
-import data
+import data2
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
