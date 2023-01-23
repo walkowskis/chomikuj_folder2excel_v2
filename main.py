@@ -25,7 +25,7 @@ f_handler.setFormatter(f_format)
 logger.addHandler(f_handler)
 
 today = datetime.date.today()
-year = '2022' # today.year
+year = '2022'  # today.year
 
 logger.info('Getting Started...')
 webdriver_service = Service(data.webdriver_path)
